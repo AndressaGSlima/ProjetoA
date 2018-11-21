@@ -15,6 +15,7 @@
 			body{background: #363636;color: #FF00FF;}
 		</style>
 	</head>
+	<!-- Corpo -->
 	<body style="background: #000000">
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand" href="feminas (2).php"><img src="logo.png" class="img-fluid" style="width:70px; height:70px; "/></a>
